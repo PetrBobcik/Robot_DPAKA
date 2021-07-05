@@ -1,7 +1,7 @@
 Robot
 - 2 wheels and round shape
 - use stepper motor or dc motor with encoder
-- TODO: going back in reverse or forward?? need sensor/switch to detect finish area or just wait few seconds till last corner was found
+- TODO: going back in reverse or forward? need sensor/switch to detect finish area or just wait few seconds till last corner was found
 
 Path finding through S path
 1. Use IR, ultra sonic sensor,... to go through S - when wall is detected make turn
